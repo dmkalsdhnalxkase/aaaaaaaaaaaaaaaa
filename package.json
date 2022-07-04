@@ -1,0 +1,19 @@
+{
+  "name": "hizmet_voic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "@discordjs/rest": "^0.5.0",
+    "discord-api-types": "^0.27.3",
+    "discord.js": "^13.8.1",
+    "mongoose": "^6.4.2",
+    "pretty-ms": "^8.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
